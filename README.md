@@ -1,2 +1,2 @@
-# knigavuhe_ddownloader
+# knigavuhe downloader
 Downloader for knigavuhe.org
